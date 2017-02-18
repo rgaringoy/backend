@@ -1,0 +1,7 @@
+# Root
+/vendor
+
+# Global
+node_modules
+error_log
+.idea
